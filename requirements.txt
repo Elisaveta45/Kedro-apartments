@@ -1,0 +1,7 @@
+pandas~=1.2.3
+click~=7.1.2
+kedro~=0.17.2
+pytest~=6.1.2
+setuptools~=52.0.0
+recommonmark~=0.7.1
+ipython~=7.10.0
